@@ -73,7 +73,7 @@ section {
 /* Hero Style Start */
 
 .hero {
-    background-image: url("../images/hero-bg.jpeg");
+    background-image: url("../images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -85,7 +85,14 @@ section {
 
 /* Hero Style End */
 
-/* Hero Form Style Start */
+/* Hero-cta style Start */
+
+
+
+/* Hero-cta style End */
+
+
+/* Hero form Style Start */
 
 .hero-form {
     background-color: #fce138;
@@ -133,7 +140,7 @@ h3 {
     padding: 10px 20px;
     font-size: 16px;
 }
-/* Hero Form Style end */
+/* Hero form Style end */
 
 .intro {
     text-align: center;
